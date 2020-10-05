@@ -1,6 +1,6 @@
 # Researcher Jekyll Theme
 
-### [Visit the live Website](https://amanagarwal.io)
+### [Visit the live Website](https://anushmanglani.github.io)
 
 A clean, single column, monospace resume template built for jekyll
 
